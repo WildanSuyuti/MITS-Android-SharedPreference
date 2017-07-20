@@ -1,10 +1,11 @@
 package com.example.kakaroto.sharedpreferencesdemo;
 
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
+
+import com.example.kakaroto.sharedpreferencesdemo.auth.LoginActivity;
+import com.example.kakaroto.sharedpreferencesdemo.utility.SessionManager;
 
 public class SplashActivity extends AppCompatActivity {
 

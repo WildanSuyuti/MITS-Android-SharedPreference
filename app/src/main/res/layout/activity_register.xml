@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:layout_margin="@dimen/space_15"
     android:background="@android:color/white"
-    tools:context="com.example.kakaroto.sharedpreferencesdemo.RegisterActivity">
+    tools:context="com.example.kakaroto.sharedpreferencesdemo.auth.RegisterActivity">
 
     <EditText
         android:id="@+id/et_name"
